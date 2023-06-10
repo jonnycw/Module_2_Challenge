@@ -1,0 +1,698 @@
+   50  conda create -n dev python=3.9 anaconda
+   51  conda activate dev
+   52  conda init zsh
+   53  conda deactivate
+   54  conda activate dev
+   55  conda init zsh
+   56  python -m ipykernel install --user--name dev
+   57  conda install -c conda-forge nodejs
+   58  conda deactivate
+   59  cd Desktop
+   60  mkdir test
+   61  touch sample.txt
+   62  cd test
+   63  ls
+   64  cd ..
+   65  mv sample.txt test
+   66  cd test
+   67  ls
+   68  touch sample2.txt
+   69  ls
+   70  clear
+   71  conda --version
+   72  conda update conda
+   73  conda create -n dev python=3.9 anaconda
+   74  conda activate dev
+   75  conda init zsh
+   76  python -m ipykernel install --user --name dev
+   77  conda install -c conda-forge nodejs
+   78  conda deactivate
+   79  clear
+   80  cd ~/git
+   81  git clone git@github.com:jonnycw/codingdemo.git
+   82  clear
+   83  cd Desktop
+   84  mkdir test
+   85  cd test
+   86  git clone git@github.com:jonnycw/codingdemo.gitx
+   87  test open .
+   88  test opn.
+   89  test open.
+   90  open
+   91  list
+   92  lst
+   93  ls
+   94  clear
+   95  cd ~/test
+   96  git clone git@github.com:jonnycw/codingdemo.git
+   97  clear
+   98  cd test
+   99  cd desktop
+  100  cd Desktop
+  101  cd
+  102  ls
+  103  cd Desktop
+  104  ls
+  105  cd test
+  106  git clone git@github.com:jonnycw/codingdemo.git
+  107  ls
+  108  git clone git@github.com:jonnycw/codingdemo.git
+  109  ls
+  110  open .
+  111  open.
+  112  open .
+  113  open . 
+  114  cd codingdemo/
+  115  ls
+  116  git add -A
+  117  git commit -m "Added an index.html file"
+  118  git push origin master
+  119  git checkout -b header
+  120  git add -A
+  121  git commit -m "Adds a header to index.html"
+  122  git push origin header
+  123  get checkout master
+  124  git checkout master
+  125  git pull 
+  126  cd codingdemo
+  127  ls
+  128  ls
+  129  git add -A
+  130  git commit -m "Added an index.html file"
+  131  git push origin master
+  132  git push origin
+  133  git push origin master
+  134  git checkout master
+  135  clear
+  136  conda activate dev
+  137  jupyter lab
+  138  conda deactivate
+  139  clear
+  140  conda activate dev
+  141  echo ${SHELL}
+  142  cd ..
+  143  cd ..
+  144  cd ..
+  145  ls
+  146  conda init init
+  147  conda init zsh
+  148  conda deactivate
+  149  clear
+  150  mkdir FinTech
+  151  cd FinTech
+  152  ls
+  153  git init 
+  154  git clone git@ucb.bootcampcontent.com:UCB-Coding-Bootcamp/UCB-VIRT-FIN-PT-12-2022-U-B.git
+  155  ls
+  156  cd UCB-VIRT-FIN-PT-12-2022-U-B
+  157  git pull
+  158  cd Desktop/FinTech/UCB
+  159  cd Desktop
+  160  cd FinTech
+  161  ls
+  162  cd ..
+  163  lst
+  164  ls
+  165  cd ..
+  166  cd Desktop
+  167  cd ..
+  168  cd ..
+  169  ls
+  170  cd Desktop
+  171  cd ..
+  172  ls
+  173  cd ..
+  174  ls
+  175  ls
+  176  cd Desktop
+  177  cd FinTech
+  178  ls
+  179  cd UCB-VIRT-FIN-PT-12-2022-U-B
+  180  git pull
+  181  code .
+  182  clear
+  183  ls
+  184  /usr/bin/python3 /Users/jonnycruz/Desktop/FinTech/UCB-VIRT-FIN-PT-12-2022-U-B/01-Financial-Programming-Python/2/Activities/01_Stu_Variables/Unsolved/variables.py
+  185  /usr/bin/python3 /Users/jonnycruz/Desktop/FinTech/UCB-VIRT-FIN-PT-12-2022-U-B/01-Financial-Programming-Python/1/Activities/01_Ins_Variables/Unsolved/variables.py
+  186  clear
+  187  /usr/bin/python3 /Users/jonnycruz/Desktop/FinTech/UCB-VIRT-FIN-PT-12-2022-U-B/01-Financial-Programming-Python/1/Activities/01_Ins_Variables/Unsolved/variables.py
+  188  /usr/bin/python3 /Users/jonnycruz/Desktop/FinTech/UCB-VIRT-FIN-PT-12-2022-U-B/01-Financial-Programming-Python/1/Activities/01_Ins_Variables/Unsolved/variables.py
+  189  /usr/bin/python3 /Users/jonnycruz/Desktop/FinTech/UCB-VIRT-FIN-PT-12-2022-U-B/01-Financial-Programming-Python/1/Activities/01_Ins_Variables/Unsolved/variables.py
+  190  ls
+  191  cd Desktop/FinTech/UCB-VIRT-FIN-PT-12-2022-U-B
+  192  git pull
+  193  code .
+  194  ls
+  195  git pull
+  196  code .
+  197  /usr/bin/python3 /Users/jonnycruz/Desktop/FinTech/UCB-VIRT-FIN-PT-12-2022-U-B/01-Financial-Programming-Python/1/Activities/01_Ins_Variables/Unsolved/variables.py
+  198  /usr/bin/python3 /Users/jonnycruz/Desktop/FinTech/UCB-VIRT-FIN-PT-12-2022-U-B/01-Financial-Programming-Python/1/Activities/01_Ins_Variables/Solved/variables.py
+  199  clear
+  200   /usr/bin/python3 /Users/jonnycruz/Desktop/FinTech/UCB-VIRT-FIN-PT-12-2022-U-B/01-Financial-Programming-Python/1/Activities/01_Ins_Variables/Unsolved/variables.py
+  201  /usr/bin/python3 /Users/jonnycruz/Desktop/FinTech/UCB-VIRT-FIN-PT-12-2022-U-B/01-Financial-Programming-Python/1/Activities/01_Ins_Variables/Unsolved/variables.py
+  202  /usr/bin/python3 /Users/jonnycruz/Desktop/FinTech/UCB-VIRT-FIN-PT-12-2022-U-B/01-Financial-Programming-Python/1/Activities/01_Ins_Variables/Unsolved/variables.py
+  203  clear
+  204  /usr/bin/python3 /Users/jonnycruz/Desktop/FinTech/UCB-VIRT-FIN-PT-12-2022-U-B/01-Financial-Programming-Python/1/Activities/02_Stu_Percent_Increase/Unsolved/percent_increase.py
+  205  /usr/bin/python3 /Users/jonnycruz/Desktop/FinTech/UCB-VIRT-FIN-PT-12-2022-U-B/01-Financial-Programming-Python/1/Activities/02_Stu_Percent_Increase/Solved/.ipynb_checkpoints/percent_increase-checkpoint.py
+  206  clear
+  207  /usr/bin/python3 /Users/jonnycruz/Desktop/FinTech/UCB-VIRT-FIN-PT-12-2022-U-B/01-Financial-Programming-Python/1/Activities/02_Stu_Percent_Increase/Unsolved/percent_increase.py
+  208  /usr/bin/python3 /Users/jonnycruz/Desktop/FinTech/UCB-VIRT-FIN-PT-12-2022-U-B/01-Financial-Programming-Python/1/Activities/02_Stu_Percent_Increase/Unsolved/percent_increase.py
+  209  /usr/bin/python3 /Users/jonnycruz/Desktop/FinTech/UCB-VIRT-FIN-PT-12-2022-U-B/01-Financial-Programming-Python/1/Activities/02_Stu_Percent_Increase/Unsolved/percent_increase.py
+  210  clear
+  211  /usr/bin/python3 /Users/jonnycruz/Desktop/FinTech/UCB-VIRT-FIN-PT-12-2022-U-B/01-Financial-Programming-Python/1/Activities/02_Stu_Percent_Increase/Unsolved/percent_increase.py
+  212  /usr/bin/python3 /Users/jonnycruz/Desktop/FinTech/UCB-VIRT-FIN-PT-12-2022-U-B/01-Financial-Programming-Python/1/Activities/02_Stu_Percent_Increase/Unsolved/percent_increase.py
+  213  /usr/bin/python3 /Users/jonnycruz/Desktop/FinTech/UCB-VIRT-FIN-PT-12-2022-U-B/01-Financial-Programming-Python/1/Activities/02_Stu_Percent_Increase/Unsolved/percent_increase.py
+  214  code .
+  215   code .
+  216  cd
+  217  ls
+  218  cd Desktop/FinTech/UCB-VIRT-FIN-PT-12-2022-U-B
+  219  ls
+  220  git pull
+  221  code .
+  222  /usr/bin/python3 /Users/jonnycruz/Desktop/FinTech/UCB-VIRT-FIN-PT-12-2022-U-B/01-Financial-Programming-Python/2/Activities/01_Stu_Variables/Unsolved/variables.py
+  223  /usr/bin/python3 /Users/jonnycruz/Desktop/FinTech/UCB-VIRT-FIN-PT-12-2022-U-B/01-Financial-Programming-Python/2/Activities/01_Stu_Variables/Unsolved/variables.py
+  224  clear
+  225  /usr/bin/python3 /Users/jonnycruz/Desktop/FinTech/UCB-VIRT-FIN-PT-12-2022-U-B/01-Financial-Programming-Python/2/Activities/01_Stu_Variables/Unsolved/variables.py
+  226  clear
+  227  /usr/bin/python3 /Users/jonnycruz/Desktop/FinTech/UCB-VIRT-FIN-PT-12-2022-U-B/01-Financial-Programming-Python/2/Activities/01_Stu_Variables/Unsolved/variables.py
+  228  /usr/bin/python3 /Users/jonnycruz/Desktop/FinTech/UCB-VIRT-FIN-PT-12-2022-U-B/01-Financial-Programming-Python/2/Activities/01_Stu_Variables/Unsolved/variables.py
+  229  clear
+  230  /usr/bin/python3 /Users/jonnycruz/Desktop/FinTech/UCB-VIRT-FIN-PT-12-2022-U-B/01-Financial-Programming-Python/2/Activities/01_Stu_Variables/Unsolved/variables.py
+  231  /usr/bin/python3 /Users/jonnycruz/Desktop/FinTech/UCB-VIRT-FIN-PT-12-2022-U-B/01-Financial-Programming-Python/2/Activities/01_Stu_Variables/Unsolved/variables.py
+  232  /usr/bin/python3 /Users/jonnycruz/Desktop/FinTech/UCB-VIRT-FIN-PT-12-2022-U-B/01-Financial-Programming-Python/2/Activities/01_Stu_Variables/Unsolved/variables.py
+  233  clear
+  234  /usr/bin/python3 /Users/jonnycruz/Desktop/FinTech/UCB-VIRT-FIN-PT-12-2022-U-B/01-Financial-Programming-Python/2/Activities/01_Stu_Variables/Unsolved/variables.py
+  235  /usr/bin/python3 /Users/jonnycruz/Desktop/FinTech/UCB-VIRT-FIN-PT-12-2022-U-B/01-Financial-Programming-Python/2/Activities/01_Stu_Variables/Unsolved/variables.py
+  236  clear
+  237  pwd
+  238  pwd
+  239  ls
+  240  cd Desktop
+  241  pwd
+  242  cd .
+  243  pwd
+  244  cd ..
+  245  pwd
+  246  pwc
+  247  pwd
+  248  cd Desktop/FinTech/UCB-VIRT-FIN-PT-12-2022-U-B
+  249  git pull
+  250  code
+  251  git upp
+  252  git pull
+  253  code
+  254  git pull
+  255  code
+  256  conda activate dev
+  257  jupyter lab
+  258  ls
+  259  pwc
+  260  pwd
+  261  cd Downloads
+  262  cd Activities 
+  263  conda activate dev
+  264  jupyter lab
+  265  cd Downloads
+  266  cd ..
+  267  cd Desktop
+  268  cd FinTech
+  269  cd UCB-VIRT-FIN-PT-12-2022-U-B
+  270  git pull
+  271  code
+  272  conda activate dev
+  273  jupyter lab
+  274  clear
+  275  conda activate dev
+  276  jupyter lab
+  277  cd Desktop
+  278  mkdir github_stuff
+  279  cd github_stuff
+  280  git init
+  281  git clone git@github.com:jonnycw/BTC-Arbitrage-.git
+  282  ls
+  283  cd BTC-Arbitrage-
+  284  ls
+  285  ls
+  286  code .
+  287  git status
+  288  git add .
+  289  git status
+  290  git commit -m "pushing my code"
+  291  git push
+  292  conda activate dev
+  293  jupyter lab
+  294  git status
+  295  git add .
+  296  git status
+  297  git commit -m "final plus readme edit"
+  298  git push
+  299  cd Desktop
+  300  cd FinTech/UCB-VIRT-FIN-PT-12-2022-U-B
+  301  git pull
+  302  code
+  303  code
+  304  code .
+  305  git pull
+  306  git pull
+  307  cd
+  308  cd Desktop
+  309  cd FinTech/UCB-VIRT-FIN-PT-12-2022-U-B-main
+  310  git pull
+  311  code .
+  312  cd/Desktop
+  313  cd Desktop/FinTech/UCB-VIRT-FIN-PT-12-2022-U-B-main
+  314  git pull
+  315  code .
+  316  conda activate dev
+  317  jupyter lab
+  318  cd Desktop
+  319  cd github_stuff
+  320  git clone
+  321  git clone git@github.com:jonnycw/Risk-Return-Analysis.git
+  322  ls
+  323  cd Risk-Return-Analysis
+  324  ls
+  325  ls
+  326  ls
+  327  dev activate conda
+  328  conda activate dev
+  329  jupyter lab
+  330  cd Desktop/github_stuff/Risk-Return-Analysis
+  331  ls
+  332  git status
+  333  git add .
+  334  git status
+  335  git commit -m "final plus readme edit"
+  336  git push
+  337  git status
+  338  git add .
+  339  git stutus
+  340  git status
+  341  git commit -m "final plus readme edit with images"\n
+  342  git push
+  343  .
+  344  ls
+  345  rm .DS_Store
+  346  git status
+  347  git add .
+  348  git status
+  349  git commit -m "final plus deleted DS Store file"
+  350  git push
+  351  ls
+  352  cd Images
+  353  rm .DS_Store
+  354  git status
+  355  git add .
+  356  git status
+  357  git commit -m "final plus deleted DS Store in Images folder"
+  358  git push
+  359  clear
+  360  cd Desktop/
+  361  ls
+  362  ..
+  363  cd Desktop/FinTech/UCB-VIRT-FIN-PT-12-2022-U-B-main
+  364  git pull
+  365  cd Desktop/FinTech/UCB-VIRT-FIN-PT-12-2022-U-B-main
+  366  git init
+  367  git clone git@ucb.bootcampcontent.com:UCB-Coding-Bootcamp/UCB-VIRT-FIN-PT-12-2022-U-B.git
+  368  ls
+  369  git pull
+  370  cd Desktop/FinTech/UCB-VIRT-FIN-PT-12-2022-U-B-main
+  371  git pull
+  372  ls
+  373  cd ..
+  374  cd .
+  375  ls
+  376  cd Desktop/FinTech/UCB-VIRT-FIN-PT-12-2022-U-B
+  377  ls
+  378  git pull
+  379  jupyter lab
+  380  cd Desktop/FinTech/UCB-VIRT-FIN-PT-12-2022-U-B
+  381  conda activate dev
+  382  jupyter lab
+  383  clear
+  384  cd Desktop
+  385  Cd FinTech/UCB-VIRT-FIN-PT-12-2022-U-B
+  386  git pull
+  387  git pull
+  388  get pull
+  389  ls
+  390  cd FinTech
+  391  ls
+  392  cd UCB-VIRT-FIN-PT-12-2022-U-B
+  393  git pull
+  394  conda activate dev
+  395  jupyter lab
+  396  cd Desktop/FinTech/UCB-VIRT-FIN-PT-12-2022-U-B
+  397  git pull
+  398  conda activate dev
+  399  jupyter lab
+  400  cd Desktop/FinTech/UCB-VIRT-FIN-PT-12-2022-U-B
+  401  git pull
+  402  ls
+  403  git pull
+  404  git pull
+  405  git pull
+  406  conda activate dev
+  407  jupyter lab
+  408  cd Desktop/FinTech/UCB-VIRT-FIN-PT-12-2022-U-B
+  409  ls
+  410  git pull
+  411  git pulled
+  412  git pull
+  413  git pull
+  414  conda activate dev
+  415  jupyter lab
+  416  cd Desktop/FinTech/UCB-VIRT-FIN-PT-12-2022-U-B
+  417  git pull
+  418  git pull
+  419  conda activate dev
+  420  jupyter lab
+  421  cd Desktop/github_stuff/Github_Upload
+  422  conda active dev
+  423  conda activate dev
+  424  jupyter lab
+  425  cd Desktop
+  426  cd github_stuff/Project\ 1
+  427  git intit
+  428  git init
+  429  git clone git@github.com:MrWho2u/Stock_Analysis_Recommendations.git
+  430  ls
+  431  cd Stock_Analysis_Recommendations
+  432  ls
+  433  conda activate dev
+  434  jupyter lab
+  435  pip install pandas-datareader
+  436  python -m pip install pandas-datareader
+  437  pip uninstall pandas-datareader
+  438  pip install pandas-datareader
+  439  ls
+  440  cd Desktop/github_stuff/Project\ 1/Stock_Analysis_Recommendations
+  441  conda activate dev
+  442  jupyter lab
+  443  conda install -c delichon pandas_datareader
+  444  conda install -c "conda-forge/label/cf201901" pandas-datareader\n
+  445  cd Desktop/github_stuff/Project\ 1/Stock_Analysis_Recommendations
+  446  conda activate dev
+  447  jupyter lab
+  448  import yfinance as yf\nimport numpy as np\nimport tensorflow as tf\nfrom tensorflow.keras.models import Sequential\nfrom tensorflow.keras.layers import Dense, LSTM, Dropout\n\n# Load the bitcoin data from Yahoo Finance\nbtc = yf.download("BTC-USD", start="2020-01-01", end="2023-02-20")\n\n# Define the chatbot's responses\ndef get_response(input_text):\n    # Check if the input is a question\n    if '?' in input_text:\n        # Use machine learning to predict the next day's bitcoin price action\n        data = btc['Close'].values\n        sequence_length = 30\n\n        # Prepare the data for training the neural network\n        X = []\n        y = []\n        for i in range(len(data) - sequence_length):\n            X.append(data[i:i+sequence_length])\n            y.append(1 if data[i+sequence_length] > data[i+sequence_length-1] else 0)\n        X = np.array(X)\n        y = np.array(y)\n\n        # Build and train the neural network\n        model = Sequential([\n            LSTM(64, input_shape=(sequence_length, 1)),\n            Dropout(0.2),\n            Dense(1, activation='sigmoid')\n        ])\n        model.compile(optimizer='adam', loss='binary_crossentropy')\n        model.fit(X, y, epochs=50)\n\n        # Use the trained neural network to predict the next day's price action\n        last_sequence = data[-sequence_length:].reshape(1, sequence_length, 1)\n        prediction = model.predict(last_sequence)\n\n        # Return the chatbot's response based on the prediction\n        if prediction > 0.5:\n            return "Based on my analysis, I think the price of bitcoin is likely to go up."\n        else:\n            return "Based on my analysis, I think the price of bitcoin is likely to go down."\n    else:\n        # If the input is not a question, return a default response\n        return "I'm sorry, I didn't understand your request."\n\n# Define and run the chatbot\nwhile True:\n    user_input = input("You: ")\n    if user_input.lower() == 'bye':\n        print("Chatbot: Goodbye!")\n        break\n    else:\n        chatbot_response = get_response(user_input)\n        print("Chatbot:", chatbot_response)
+  449  .code
+  450  code
+  451  conda activate dev
+  452  jupyter lab
+  453  /usr/bin/python3
+  454   /usr/bin/env /usr/bin/python3 /Users/jonnycruz/.vscode/extensions/ms-python.python-2022.20.2/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 63519 -- /Users/jonnycruz/BTC\ chatbot 
+  455   cd /Users/jonnycruz ; /usr/bin/env /usr/bin/python3 /Users/jonnycruz/.vscode/extensions/ms-python.python-2022.20.2/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 63550 -- /Users/jonnycruz/BTC\ chatbot 
+  456   /usr/bin/env /usr/bin/python3 /Users/jonnycruz/.vscode/extensions/ms-python.python-2022.20.2/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 63516 -- /Users/jonnycruz/BTC\ chatbot 
+  457   cd /Users/jonnycruz ; /usr/bin/env /usr/bin/python3 /Users/jonnycruz/.vscode/extensions/ms-python.python-2022.20.2/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 63533 -- /Users/jonnycruz/BTC\ chatbot 
+  458   /usr/bin/env /usr/bin/python3 /Users/jonnycruz/.vscode/extensions/ms-python.python-2022.20.2/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 63507 -- /Users/jonnycruz/BTC\ chatbot 
+  459  conda activate dev
+  460  conda list request
+  461  conda list json
+  462  conda install -c anaconda requests
+  463  conda install -c jmcmurray json
+  464  pip install python-dotenv
+  465  pip install alpaca-trade-api
+  466  pip list
+  467  pip list | grep-E 
+  468  pip list | grep -E "python-dotenv|alpaca-trade-api"
+  469  conda list python-dotenv
+  470  conda list alpaca-trade-api
+  471  jupyter notebook
+  472  conda activate dev
+  473  jupyter lab
+  474  cd Desktop/Nasdaq_API_KEY
+  475  conda activate dev
+  476  jupyter lab
+  477  jupyter lab --ContentsManager.allow_hidden-True
+  478  jupyter-lab --ContentsManager.allow_hidden=True
+  479  jupyter-lab --ContentsManager.allow_hidden=True
+  480  jupyter-lab --ContentsManager.allow_hidden=True
+  481  cd Desktop/ALPACA_API_KEY
+  482  conda activate dev
+  483  jupyter lab
+  484  jupyter lab
+  485  jupyter lab
+  486  jupyter lab --ContentsManager.allow_hidden=True
+  487  conda activate dev
+  488  conda list scikit-learn
+  489  conda list hvplot
+  490  conda activate dev
+  491  conda activate dev
+  492  conda install -c conda-forge imbalance-learn
+  493  conda list imbalanced-learn
+  494  conda install -c conda-forge imbalanaced-learn
+  495  conda list imbalanced-learn
+  496  conda install -c conda-forge pydotplus
+  497  conda list pydotplus
+  498  conda list imbalanced-learn
+  499  conda update -n base -c defaults conda
+  500  conda list imbalanced-learn
+  501  conda install -c conda-forge imbalanced-learn\n
+  502  conda list imbalanced-learn
+  503  cd Downloads/01-Inspecting_time_zones_in_Stock_Data
+  504  jupyter lab
+  505  ..
+  506  cd..
+  507  .cd
+  508  cd
+  509  cd Downloads/sentiment_stocks_trading 2
+  510  cd Downloads/sentiment_stocks_trading
+  511  conda activate dev
+  512  jupyter lab
+  513  jupyter lab
+  514  conda activate dev
+  515  jupyter lab
+  516  conda activate dev
+  517  jupyter lab
+  518  conda activate dev
+  519  cd Desktop/Stock_Predictor-main
+  520  jupyter lab
+  521  conda activate dev
+  522  pip install streamlit
+  523  jupyter lab
+  524  cd Downloads/UCB-VIRT-FIN-PT-12-2022-U-B-main-18-Blockchain
+  525  jupyter lab
+  526  code.
+  527  code 
+  528  jupyter lab
+  529  /usr/bin/python3 "/Users/jonnycruz/Desktop/Github_Upload/Starter_Code 2/loan_analyzer.py"
+  530  /usr/bin/python3
+  531  pip install web3==5.1pip install web3==5.17
+  532  pip install web3==5.17
+  533  conda activate dev2
+  534  pip install web3==5.17
+  535  pip install web3
+  536  pip install web3
+  537  conda install web3
+  538  pip install mnemonic\npip install bip44
+  539  cd Downloads/UCB-VIRT-FIN-PT-12-2022-U-B-main-19-Blockchain_Wallets/19-Blockchain_Wallets
+  540  jupyter lab
+  541  conda create -n env_whatever_name python==3.7.2+ (i.e. any python version above 3.7.1)\nconda activae env_whatever_name\npip install streamlit\npip install web3==5.17\npip install eth-tester==0.5.0b3\npip install mnemonic\npip install bip44
+  542  conda create -n env_dev2 python==3.7.2+
+  543  conda activate dev2
+  544  conda create -n dev2 python==3.7.2
+  545  conda activate dev2
+  546  pip install streamlit
+  547  pip install web3==5.17
+  548  pip install eth-tester==0.5.0b3
+  549  pip install mnemonic
+  550  pip install bip44
+  551  jupyter lab
+  552  pip install jupyterlab
+  553  jupyter lab
+  554  jupyter lab
+  555  pip install web3==5.17
+  556  python -V
+  557  conda create -n blockchain python==3.8
+  558  conda activate blockchain
+  559  pip install streamlit\npip install web3==5.17\npip install eth-tester==0.5.0b3\npip install mnemonic\npip install bip44
+  560  jupyter lab
+  561  pip install jupyterlab
+  562  jupyter lab
+  563  conda activate blockchain
+  564  ipython kernel install --user --name=blockchain
+  565  cd Desktop
+  566  mkdir github_challenges
+  567  cd github_challenges
+  568  git init
+  569  git clone git@github.com:jonnycw/financial_planning_tools.git
+  570  ls
+  571  cd financial_planning_tools
+  572  ls
+  573  git status
+  574  git add .
+  575  git status
+  576  git commit -m "pushing my code"
+  577  git push
+  578  conda activate dev
+  579  jupyter lab
+  580  git status
+  581  add .
+  582  git add .
+  583  git status
+  584  git commit -m "final plus readme edit"
+  585  git push
+  586  cd Downloads
+  587  cd Module 6 Challenge
+  588  ls
+  589  cd Module 6 Challenge
+  590  cd Module_6_Challenge
+  591  $ git init
+  592  git init
+  593  git clone git@github.com:jonnycw/Housing-Market-Analysis.git
+  594  ls
+  595  git status
+  596  git add .
+  597  git rm --cached Housing-Market-Analysis
+  598  cd Downloads/Housing-Market-Analysis
+  599  git status
+  600  git add .
+  601  git status
+  602  git commit -m "Pushing my code"
+  603  git push
+  604  conda activate dev
+  605  jupyter lab
+  606  conda activate dev
+  607  conda install -c conda-forge geoviews pyproj cartopy -q
+  608  /usr/bin/python3
+  609  cd Downloads/Housing-Market-Analysis
+  610  conda activate dev
+  611  jupyter lab
+  612  git status
+  613  git add README.md
+  614  git status
+  615  git commit -m "final readme edit"
+  616  git push
+  617  conda activate blockchain
+  618  pip install streamlit
+  619  conda activate dev
+  620  pip install streamlit
+  621  conda activate blockchain
+  622  /Users/jonnycruz/opt/anaconda3/envs/blockchain/bin/python /Users/jonnycruz/Desktop/nft_invitation_dApp/app.py
+  623  streamlit run /Users/jonnycruz/Desktop/nft_invitation_dApp/app.py
+  624  conda activate blockchain
+  625  /Users/jonnycruz/opt/anaconda3/envs/blockchain/bin/python /Users/jonnycruz/Desktop/nft_invitation_dApp/app_0529.py
+  626  streamlit run /Users/jonnycruz/Desktop/nft_invitation_dApp/app_0529.py
+  627  cd Desktop
+  628  git clone https://github.com/Demigodgeek/nft_ticket_exchange_dApp.git
+  629  cd Desktop
+  630  git clone https://github.com/Demigodgeek/nft_ticket_exchange_dApp.git
+  631  git clone https://github.com/Demigodgeek/nft_ticket_exchange_dApp.git
+  632  git clone git@github.com:Demigodgeek/nft_invitation_dApp.git
+  633  git clone git@github.com:Demigodgeek/nft_invitation_dApp.git
+  634  git pull
+  635  cdd NFT
+  636  cd nft_invitation_dApp
+  637  git pull
+  638  git status
+  639  git add Presentation.pdf
+  640  git add Project 3 Demo.mp4
+  641  git status
+  642  git commit -m "Pushing Presendation PDF"
+  643  git push
+  644  cd Desktop
+  645  git clone git@github.com:Demigodgeek/nft_invitation_dApp.git
+  646  cd nft_invitation_dApp
+  647  git status
+  648  git status
+  649  git add.
+  650  git add .
+  651  git status
+  652  git commit -m "Pushing Presentation PDF and Demo"
+  653  git push
+  654  git checkout Jonny
+  655  git branch Jonny
+  656  git branch
+  657  git checkout Jonny
+  658  git branch
+  659  git checkout main
+  660  git branch
+  661  git checkout Jonny
+  662  git branch
+  663  ls
+  664  push
+  665  git status
+  666  git branch
+  667  ls
+  668  git status
+  669  git pull
+  670  git branch
+  671  ls
+  672  git status
+  673  git status
+  674  git commit -m "Updating name for Demo"
+  675  git status
+  676  git add .
+  677  git status
+  678  git push
+  679  git branch main
+  680  git checkout main
+  681  git branch
+  682  git status
+  683  git commit -m "Updating name for Demo"
+  684  git push
+  685  cd Desktop/nft_invitation_dApp
+  686  git branch
+  687  git status
+  688  git pull
+  689  cd ..
+  690  cd nft_invitation
+  691  git init
+  692  git clone git@github.com:Demigodgeek/nft_invitation_dApp.git
+  693  ls
+  694  cd nft_invitation_dApp
+  695  git pull
+  696  git branch
+  697  git status
+  698  git add .
+  699  git commit -m "update file names"
+  700  git status
+  701  git push
+  702  git pull
+  703  git stash
+  704  git status
+  705  git add .
+  706  git status
+  707  git commit -m ".DS_Store"
+  708  git push
+  709  conda activate dev
+  710  cd Desktop/Lucas_Bootcamp/Module_7_Challenge
+  711  jupyter lab
+  712  conda activate dev
+  713  cd /Desktop/Lucas_Bootcamp/Module_10_challenge
+  714  cd Desktop/Lucas_Bootcamp/Module_10_Challenge
+  715  jupyter lab
+  716  conda activate dev
+  717  cd Desktop/Lucas_Bootcamp/Module_10_Challenge
+  718  cd Desktop/Lucas_Bootcamp/Module_11_Challenge
+  719  jupyter lab
+  720  conda activate dev
+  721  cd Desktop/Lucas_Bootcamp/Module_12_Challenge
+  722  jupyter lab
+  723  conda activate dev
+  724  cd Desktop/Lucas_Bootcamp/Module_13_Challenge
+  725  jupyter lab
+  726  conda activate dev
+  727  cd Desktop/Lucas_Bootcamp/Module_14_Challenge
+  728  jupyter lab
+  729  conda activate dev
+  730  cd Desktop/Lucas_Bootcamp/Module_15_Challenge
+  731  jupyter lab
+  732  conda activate dev
+  733  pip install fire questionary
+  734  pip3 install fire questionary
+  735  cd Desktop/Github_Uploads_June10
+  736  git init
+  737  git clone git@github.com:jonnycw/Module_2_Challenge.git
+  738  ls
+  739  cd Module_2_Challenge
+  740  git status
+  741  git add .
+  742  git status
+  743  git add .
+  744  git status
+  745  git commit -m "pushing my code"
+  746  git push
+  747  history 50 > terminal history.txt
